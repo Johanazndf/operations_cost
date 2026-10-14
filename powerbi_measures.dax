@@ -1,0 +1,80 @@
+/* Operations & Cost Optimization Analytics
+   Tables: Employees, Operations, Costs, Targets, Issues
+*/
+
+Total Cost =
+SUM ( Costs[amount] )
+
+Total Tasks Completed =
+SUM ( Operations[tasks_completed] )
+
+Total Tasks Assigned =
+SUM ( Operations[tasks_assigned] )
+
+Task Completion Rate =
+DIVIDE ( [Total Tasks Completed], [Total Tasks Assigned] )
+
+Average Productivity =
+AVERAGE ( Operations[productivity_score] )
+
+Valid Overtime Hours =
+SUM ( Operations[valid_overtime_hours] )
+
+Overtime Cost =
+CALCULATE (
+    [Total Cost],
+    Costs[cost_type] = "Overtime"
+)
+
+Cost per Completed Task =
+DIVIDE ( [Total Cost], [Total Tasks Completed] )
+
+Issue Count =
+DISTINCTCOUNT ( Issues[issue_id] )
+
+Average Resolution Hours =
+AVERAGE ( Issues[resolution_hours] )
+
+Target Cost =
+SUM ( Targets[cost_target] )
+
+Cost Variance to Target =
+[Total Cost] - [Target Cost]
+
+Productivity Target =
+AVERAGE ( Targets[productivity_target] )
+
+Productivity Variance to Target =
+[Average Productivity] - [Productivity Target]
+
+Task Completion Target =
+AVERAGE ( Targets[task_completion_target] ) / 100
+
+Task Completion Variance to Target =
+[Task Completion Rate] - [Task Completion Target]
+
+Missing Cost Records =
+CALCULATE (
+    COUNTROWS ( Costs ),
+    Costs[missing_amount_flag] = 1
+)
+
+Missing Resolution Records =
+CALCULATE (
+    COUNTROWS ( Issues ),
+    Issues[missing_resolution_flag] = 1
+)
+
+High Cost Records =
+CALCULATE (
+    COUNTROWS ( Costs ),
+    Costs[high_cost_flag] = 1
+)
+
+Target Status =
+SWITCH (
+    TRUE (),
+    [Cost Variance to Target] > 0, "Cost over target",
+    [Productivity Variance to Target] < 0, "Productivity below target",
+    "Review"
+)

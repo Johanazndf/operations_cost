@@ -1,0 +1,12 @@
+kpi,value,definition
+Total operational cost,39163538.97391094,SUM(non-missing cost amounts)
+Total tasks completed,833152.0,SUM(tasks_completed)
+Total tasks assigned,915053.0,SUM(tasks_assigned)
+Task completion rate,0.9104958947733082,SUM(completed) / SUM(assigned)
+Average productivity,90.83648404575557,AVERAGE(non-missing productivity_score)
+Total valid overtime hours,33249.29,SUM(overtime_hours where overtime_hours >= 0)
+Overtime cost,4680774.567452163,SUM(costs where cost_type = Overtime)
+Cost per completed task,47.00647537773533,Total cost / total tasks completed
+Issue volume,8000.0,COUNT(DISTINCT issue_id)
+Average resolution hours,15.899534883720928,AVERAGE(non-missing resolution_hours)
+Missing cost amount records,60.0,COUNT(missing amount)

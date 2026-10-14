@@ -1,0 +1,37 @@
+department,issue_type,issue_count,average_resolution_hours,missing_resolution_hours
+Operations,Process Delay,540,15.777196261682242,5
+Customer Support,Process Delay,420,15.93054892601432,1
+Operations,Resource Shortage,416,15.715254237288134,3
+Operations,System Issue,410,14.93882063882064,3
+Customer Support,System Issue,363,16.906629834254144,1
+Operations,Quality Issue,361,16.718333333333334,1
+Customer Support,Resource Shortage,308,14.27100977198697,1
+IT,Process Delay,304,16.52145214521452,1
+Customer Support,Quality Issue,277,17.36058394160584,3
+Operations,Equipment Issue,269,15.50187265917603,2
+IT,System Issue,253,16.599603174603175,1
+Operations,Other,237,16.085531914893618,2
+Finance,Process Delay,236,16.673931623931622,2
+IT,Resource Shortage,227,15.908000000000001,2
+Logistics,Process Delay,214,17.164788732394367,1
+HR,Process Delay,212,15.992344497607656,3
+Finance,Resource Shortage,200,15.424000000000001,0
+Customer Support,Equipment Issue,200,16.742211055276382,1
+Finance,System Issue,197,14.601538461538462,2
+IT,Quality Issue,191,15.477894736842106,1
+Logistics,System Issue,187,16.041711229946525,0
+HR,System Issue,176,16.459659090909092,0
+Customer Support,Other,169,15.410119047619048,1
+Logistics,Resource Shortage,156,15.55741935483871,1
+HR,Resource Shortage,155,14.182467532467532,1
+Finance,Quality Issue,153,14.651655629139073,2
+Logistics,Quality Issue,150,17.212666666666667,0
+HR,Quality Issue,143,17.37132867132867,0
+IT,Equipment Issue,137,17.00375939849624,4
+Finance,Equipment Issue,128,15.328125,0
+Logistics,Equipment Issue,120,15.185833333333333,0
+Finance,Other,111,14.755855855855856,0
+IT,Other,107,14.343925233644859,0
+Logistics,Other,96,14.426041666666668,0
+HR,Other,90,15.864444444444445,0
+HR,Equipment Issue,87,15.342528735632184,0

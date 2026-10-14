@@ -1,0 +1,5 @@
+operation_id,employee_id,date,department,hours_worked,overtime_hours,tasks_assigned,tasks_completed,productivity_score,status,department_source,employee_department,department_mismatch_flag,negative_overtime_flag,hours_above_24_flag,completion_over_assignment_flag,missing_hours_flag,missing_productivity_flag,productivity_above_100_flag,valid_overtime_hours,completion_rate,month,department_month_key
+O010281,E0180,2025-11-30,Finance,8.87,2.02,21,18,85.7,Completed,FINANCE,IT,1,0,0,0,0,0,0,2.02,0.8571428571428571,2025-11-01,Finance|2025-11
+O021024,E0036,2025-02-07,Operations,,1.58,38,37,103.7,Delayed,Operations,Operations,0,0,0,0,1,0,1,1.58,0.9736842105263158,2025-02-01,Operations|2025-02
+O010281,E0180,2025-11-30,IT,8.87,2.02,21,18,85.7,Completed,IT,IT,0,0,0,0,0,0,0,2.02,0.8571428571428571,2025-11-01,IT|2025-11
+O021024,E0036,2025-02-07,Operations,7.25,1.58,38,37,103.7,Delayed,Operations,Operations,0,0,0,0,0,0,1,1.58,0.9736842105263158,2025-02-01,Operations|2025-02

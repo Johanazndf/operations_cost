@@ -1,0 +1,11 @@
+check,source_value,clean_value,decision
+operations_source_rows,30120,30120,Source row count
+operations_clean_rows,30120,29998,Exact duplicates removed; conflicting IDs quarantined
+operations_exact_duplicates,118,236,Quarantined for audit
+operations_conflicting_ids,2,2,All rows for conflicting IDs quarantined
+costs_source_rows,20070,20070,Source row count
+costs_clean_rows,20070,20000,Exact duplicate rows removed
+cost_missing_amount_rows,60,60,Preserved and excluded only from numeric sums
+negative_overtime_rows,25,25,Preserved and flagged
+department_mismatch_rows,170,170,Standardized and flagged
+missing_issue_resolution_rows,45,45,Preserved and excluded from duration averages

@@ -1,0 +1,251 @@
+employee_id,employee_name,department,role,location,joining_date,employment_type
+E0001,Employee_0001,IT,IT Support Engineer,Chennai,2025-09-29,Full-Time
+E0002,Employee_0002,Customer Support,Team Associate,Chennai,2022-03-23,Full-Time
+E0003,Employee_0003,IT,IT Analyst,Mumbai,2025-02-22,Full-Time
+E0004,Employee_0004,HR,HR Analyst,Delhi,2021-04-30,Full-Time
+E0005,Employee_0005,Operations,Process Associate,Bengaluru,2021-12-13,Full-Time
+E0006,Employee_0006,Logistics,Logistics Analyst,Delhi,2021-09-16,Contract
+E0007,Employee_0007,IT,Systems Associate,Bengaluru,2021-10-08,Full-Time
+E0008,Employee_0008,IT,IT Support Engineer,Pune,2021-07-27,Full-Time
+E0009,Employee_0009,Operations,Operations Analyst,Bengaluru,2021-12-17,Full-Time
+E0010,Employee_0010,Customer Support,Support Executive,Pune,2023-12-01,Full-Time
+E0011,Employee_0011,Customer Support,Team Associate,Pune,2025-01-30,Full-Time
+E0012,Employee_0012,Logistics,Logistics Executive,Mumbai,2025-04-25,Full-Time
+E0013,Employee_0013,HR,Recruitment Executive,Bengaluru,2023-06-07,Full-Time
+E0014,Employee_0014,IT,IT Support Engineer,Hyderabad,2022-03-25,Full-Time
+E0015,Employee_0015,Customer Support,Team Associate,Pune,2022-05-24,Full-Time
+E0016,Employee_0016,Operations,Operations Executive,Delhi,2023-08-01,Full-Time
+E0017,Employee_0017,Finance,Finance Associate,Delhi,2021-07-12,Contract
+E0018,Employee_0018,Operations,Operations Executive,Mumbai,2021-06-28,Full-Time
+E0019,Employee_0019,IT,IT Analyst,Delhi,2022-03-08,Full-Time
+E0020,Employee_0020,HR,HR Analyst,Chennai,2024-11-04,Full-Time
+E0021,Employee_0021,IT,Systems Associate,Mumbai,2024-08-23,Full-Time
+E0022,Employee_0022,Customer Support,Support Executive,Hyderabad,2023-07-15,Full-Time
+E0023,Employee_0023,Logistics,Logistics Analyst,Pune,2024-11-12,Full-Time
+E0024,Employee_0024,Logistics,Dispatch Associate,Hyderabad,2022-04-25,Full-Time
+E0025,Employee_0025,IT,Systems Associate,Pune,2021-10-25,Full-Time
+E0026,Employee_0026,Operations,Process Associate,Pune,2022-10-24,Full-Time
+E0027,Employee_0027,Customer Support,Team Associate,Hyderabad,2023-02-21,Full-Time
+E0028,Employee_0028,Operations,Process Associate,Hyderabad,2022-06-19,Contract
+E0029,Employee_0029,Operations,Operations Analyst,Delhi,2025-03-18,Full-Time
+E0030,Employee_0030,HR,Recruitment Executive,Pune,2023-08-22,Full-Time
+E0031,Employee_0031,IT,Systems Associate,Chennai,2021-12-31,Full-Time
+E0032,Employee_0032,Logistics,Logistics Analyst,Mumbai,2024-02-14,Full-Time
+E0033,Employee_0033,Customer Support,Support Executive,Mumbai,2021-03-05,Full-Time
+E0034,Employee_0034,Customer Support,Support Executive,Chennai,2025-03-30,Full-Time
+E0035,Employee_0035,Customer Support,Team Associate,Chennai,2024-02-20,Full-Time
+E0036,Employee_0036,Operations,Operations Executive,Chennai,2021-06-02,Contract
+E0037,Employee_0037,Operations,Operations Analyst,Bengaluru,2025-09-24,Full-Time
+E0038,Employee_0038,Customer Support,Team Associate,Pune,2023-12-05,Full-Time
+E0039,Employee_0039,Operations,Operations Analyst,Mumbai,2025-08-04,Full-Time
+E0040,Employee_0040,HR,HR Analyst,Mumbai,2023-11-29,Full-Time
+E0041,Employee_0041,Customer Support,Support Analyst,Chennai,2021-10-29,Full-Time
+E0042,Employee_0042,IT,IT Support Engineer,Bengaluru,2023-10-28,Full-Time
+E0043,Employee_0043,HR,HR Analyst,Chennai,2024-08-02,Full-Time
+E0044,Employee_0044,Customer Support,Team Associate,Chennai,2023-06-05,Full-Time
+E0045,Employee_0045,IT,IT Support Engineer,Delhi,2025-03-02,Full-Time
+E0046,Employee_0046,IT,IT Support Engineer,Mumbai,2021-06-07,Full-Time
+E0047,Employee_0047,Customer Support,Team Associate,Pune,2025-07-17,Full-Time
+E0048,Employee_0048,Customer Support,Team Associate,Mumbai,2022-08-24,Contract
+E0049,Employee_0049,HR,HR Analyst,Mumbai,2024-02-17,Full-Time
+E0050,Employee_0050,Operations,Operations Executive,Chennai,2022-07-20,Full-Time
+E0051,Employee_0051,Operations,Operations Analyst,Bengaluru,2021-06-05,Full-Time
+E0052,Employee_0052,Operations,Operations Analyst,Mumbai,2022-11-21,Full-Time
+E0053,Employee_0053,IT,IT Support Engineer,Chennai,2025-09-05,Full-Time
+E0054,Employee_0054,HR,HR Analyst,Chennai,2023-05-13,Full-Time
+E0055,Employee_0055,HR,Recruitment Executive,Delhi,2021-01-09,Contract
+E0056,Employee_0056,IT,IT Analyst,Pune,2021-08-02,Full-Time
+E0057,Employee_0057,Customer Support,Team Associate,Chennai,2021-08-09,Full-Time
+E0058,Employee_0058,Finance,Finance Associate,Bengaluru,2024-05-19,Full-Time
+E0059,Employee_0059,Operations,Operations Executive,Pune,2024-07-24,Full-Time
+E0060,Employee_0060,Operations,Operations Analyst,Delhi,2023-04-06,Full-Time
+E0061,Employee_0061,HR,HR Associate,Hyderabad,2023-07-17,Full-Time
+E0062,Employee_0062,Customer Support,Team Associate,Chennai,2021-07-19,Contract
+E0063,Employee_0063,Finance,Finance Associate,Delhi,2024-05-17,Full-Time
+E0064,Employee_0064,IT,IT Support Engineer,Bengaluru,2021-07-11,Contract
+E0065,Employee_0065,HR,HR Associate,Chennai,2021-09-03,Full-Time
+E0066,Employee_0066,Finance,Accounts Executive,Mumbai,2025-06-03,Full-Time
+E0067,Employee_0067,Finance,Finance Associate,Hyderabad,2023-03-27,Full-Time
+E0068,Employee_0068,Customer Support,Support Executive,Mumbai,2021-12-23,Contract
+E0069,Employee_0069,Operations,Operations Executive,Chennai,2025-06-25,Full-Time
+E0070,Employee_0070,Customer Support,Support Executive,Bengaluru,2021-04-03,Full-Time
+E0071,Employee_0071,Operations,Operations Analyst,Mumbai,2025-09-30,Full-Time
+E0072,Employee_0072,Customer Support,Support Executive,Hyderabad,2021-04-14,Full-Time
+E0073,Employee_0073,IT,IT Analyst,Delhi,2021-08-05,Full-Time
+E0074,Employee_0074,Operations,Operations Analyst,Mumbai,2025-02-17,Full-Time
+E0075,Employee_0075,Operations,Process Associate,Hyderabad,2021-07-24,Full-Time
+E0076,Employee_0076,Customer Support,Support Executive,Chennai,2024-09-03,Full-Time
+E0077,Employee_0077,Customer Support,Support Executive,Delhi,2023-03-19,Full-Time
+E0078,Employee_0078,HR,HR Associate,Bengaluru,2021-12-14,Full-Time
+E0079,Employee_0079,Finance,Finance Associate,Mumbai,2023-07-30,Full-Time
+E0080,Employee_0080,IT,IT Analyst,Chennai,2021-04-09,Full-Time
+E0081,Employee_0081,HR,HR Associate,Bengaluru,2022-01-30,Full-Time
+E0082,Employee_0082,Customer Support,Team Associate,Pune,2021-11-08,Full-Time
+E0083,Employee_0083,IT,IT Analyst,Hyderabad,2022-11-09,Full-Time
+E0084,Employee_0084,Operations,Operations Analyst,Chennai,2024-11-12,Full-Time
+E0085,Employee_0085,Operations,Operations Analyst,Chennai,2023-03-15,Contract
+E0086,Employee_0086,Operations,Operations Executive,Chennai,2022-06-27,Full-Time
+E0087,Employee_0087,IT,Systems Associate,Mumbai,2022-04-09,Contract
+E0088,Employee_0088,Customer Support,Support Analyst,Bengaluru,2021-09-25,Full-Time
+E0089,Employee_0089,Operations,Operations Analyst,Pune,2025-07-03,Full-Time
+E0090,Employee_0090,Finance,Accounts Executive,Delhi,2021-08-30,Full-Time
+E0091,Employee_0091,Operations,Operations Executive,Hyderabad,2024-01-12,Full-Time
+E0092,Employee_0092,HR,Recruitment Executive,Pune,2024-02-17,Full-Time
+E0093,Employee_0093,Customer Support,Support Executive,Pune,2025-02-21,Full-Time
+E0094,Employee_0094,Customer Support,Support Executive,Chennai,2022-07-25,Full-Time
+E0095,Employee_0095,Customer Support,Support Executive,Pune,2023-05-10,Full-Time
+E0096,Employee_0096,HR,Recruitment Executive,Bengaluru,2023-10-28,Full-Time
+E0097,Employee_0097,Customer Support,Support Analyst,Mumbai,2023-09-12,Full-Time
+E0098,Employee_0098,Operations,Process Associate,Chennai,2022-07-24,Full-Time
+E0099,Employee_0099,Operations,Process Associate,Chennai,2021-12-21,Full-Time
+E0100,Employee_0100,Logistics,Dispatch Associate,Chennai,2022-10-12,Full-Time
+E0101,Employee_0101,Logistics,Logistics Analyst,Mumbai,2023-10-02,Contract
+E0102,Employee_0102,HR,HR Analyst,Delhi,2023-06-26,Full-Time
+E0103,Employee_0103,Operations,Operations Executive,Mumbai,2022-03-19,Full-Time
+E0104,Employee_0104,Logistics,Logistics Executive,Pune,2023-06-09,Full-Time
+E0105,Employee_0105,IT,IT Support Engineer,Bengaluru,2025-04-13,Full-Time
+E0106,Employee_0106,HR,HR Analyst,Bengaluru,2022-05-21,Full-Time
+E0107,Employee_0107,Customer Support,Support Analyst,Hyderabad,2024-08-08,Full-Time
+E0108,Employee_0108,Operations,Operations Executive,Delhi,2021-01-27,Full-Time
+E0109,Employee_0109,Operations,Operations Analyst,Delhi,2023-01-18,Full-Time
+E0110,Employee_0110,Logistics,Dispatch Associate,Hyderabad,2023-12-18,Full-Time
+E0111,Employee_0111,Customer Support,Support Analyst,Pune,2023-06-23,Contract
+E0112,Employee_0112,Operations,Operations Analyst,Pune,2024-10-21,Full-Time
+E0113,Employee_0113,Customer Support,Team Associate,Mumbai,2021-09-17,Full-Time
+E0114,Employee_0114,Finance,Finance Analyst,Delhi,2024-02-28,Full-Time
+E0115,Employee_0115,Operations,Operations Analyst,Hyderabad,2024-09-23,Full-Time
+E0116,Employee_0116,IT,Systems Associate,Mumbai,2021-10-26,Full-Time
+E0117,Employee_0117,IT,IT Analyst,Delhi,2025-09-21,Full-Time
+E0118,Employee_0118,HR,Recruitment Executive,Mumbai,2025-11-18,Full-Time
+E0119,Employee_0119,Customer Support,Support Analyst,Pune,2025-02-26,Full-Time
+E0120,Employee_0120,HR,Recruitment Executive,Delhi,2024-09-21,Full-Time
+E0121,Employee_0121,Finance,Accounts Executive,Pune,2025-07-13,Full-Time
+E0122,Employee_0122,HR,HR Associate,Hyderabad,2025-06-21,Full-Time
+E0123,Employee_0123,Operations,Process Associate,Hyderabad,2021-12-13,Full-Time
+E0124,Employee_0124,Customer Support,Support Executive,Delhi,2023-11-22,Full-Time
+E0125,Employee_0125,Operations,Operations Executive,Bengaluru,2022-04-29,Full-Time
+E0126,Employee_0126,Finance,Finance Associate,Delhi,2024-02-22,Full-Time
+E0127,Employee_0127,Customer Support,Support Analyst,Mumbai,2024-11-30,Full-Time
+E0128,Employee_0128,Operations,Operations Analyst,Mumbai,2022-10-22,Full-Time
+E0129,Employee_0129,Operations,Operations Analyst,Pune,2025-08-04,Full-Time
+E0130,Employee_0130,Finance,Finance Analyst,Chennai,2024-10-15,Full-Time
+E0131,Employee_0131,Operations,Process Associate,Chennai,2023-02-15,Full-Time
+E0132,Employee_0132,Logistics,Logistics Analyst,Bengaluru,2025-03-11,Full-Time
+E0133,Employee_0133,Finance,Accounts Executive,Pune,2025-03-07,Full-Time
+E0134,Employee_0134,Customer Support,Support Analyst,Bengaluru,2022-12-19,Contract
+E0135,Employee_0135,Finance,Accounts Executive,Chennai,2022-12-06,Full-Time
+E0136,Employee_0136,Operations,Operations Executive,Hyderabad,2021-12-11,Full-Time
+E0137,Employee_0137,Logistics,Dispatch Associate,Delhi,2024-05-28,Full-Time
+E0138,Employee_0138,Finance,Accounts Executive,Bengaluru,2023-12-14,Full-Time
+E0139,Employee_0139,IT,Systems Associate,Hyderabad,2021-11-03,Full-Time
+E0140,Employee_0140,Operations,Operations Analyst,Mumbai,2025-11-03,Full-Time
+E0141,Employee_0141,Finance,Finance Analyst,Pune,2025-11-08,Contract
+E0142,Employee_0142,Finance,Finance Analyst,Chennai,2024-07-21,Contract
+E0143,Employee_0143,Logistics,Dispatch Associate,Mumbai,2023-04-10,Full-Time
+E0144,Employee_0144,Finance,Finance Analyst,Chennai,2024-08-11,Full-Time
+E0145,Employee_0145,Customer Support,Support Analyst,Chennai,2025-09-27,Contract
+E0146,Employee_0146,Operations,Process Associate,Bengaluru,2025-11-08,Full-Time
+E0147,Employee_0147,Customer Support,Team Associate,Mumbai,2025-10-13,Full-Time
+E0148,Employee_0148,Finance,Finance Analyst,Bengaluru,2021-08-11,Full-Time
+E0149,Employee_0149,Customer Support,Support Analyst,Mumbai,2025-09-30,Contract
+E0150,Employee_0150,Operations,Process Associate,Delhi,2023-04-17,Contract
+E0151,Employee_0151,IT,IT Support Engineer,Pune,2021-05-14,Full-Time
+E0152,Employee_0152,Logistics,Logistics Analyst,Hyderabad,2023-09-27,Full-Time
+E0153,Employee_0153,Operations,Operations Executive,Delhi,2023-03-12,Full-Time
+E0154,Employee_0154,Finance,Finance Analyst,Bengaluru,2022-11-02,Full-Time
+E0155,Employee_0155,Operations,Process Associate,Bengaluru,2025-08-04,Full-Time
+E0156,Employee_0156,HR,HR Analyst,Chennai,2024-10-24,Full-Time
+E0157,Employee_0157,Customer Support,Team Associate,Mumbai,2022-12-10,Full-Time
+E0158,Employee_0158,HR,HR Analyst,Delhi,2022-02-27,Full-Time
+E0159,Employee_0159,IT,IT Support Engineer,Delhi,2023-03-10,Full-Time
+E0160,Employee_0160,IT,IT Support Engineer,Hyderabad,2024-05-04,Full-Time
+E0161,Employee_0161,Operations,Operations Analyst,Pune,2024-06-13,Full-Time
+E0162,Employee_0162,Logistics,Logistics Analyst,Hyderabad,2022-03-04,Full-Time
+E0163,Employee_0163,Operations,Process Associate,Pune,2024-11-04,Full-Time
+E0164,Employee_0164,Operations,Operations Analyst,Mumbai,2023-11-29,Full-Time
+E0165,Employee_0165,Finance,Finance Associate,Hyderabad,2023-09-17,Full-Time
+E0166,Employee_0166,Customer Support,Team Associate,Mumbai,2021-06-02,Full-Time
+E0167,Employee_0167,IT,Systems Associate,Mumbai,2023-02-04,Contract
+E0168,Employee_0168,IT,IT Analyst,Chennai,2022-06-18,Full-Time
+E0169,Employee_0169,Customer Support,Support Analyst,Bengaluru,2021-08-03,Contract
+E0170,Employee_0170,Logistics,Dispatch Associate,Delhi,2024-06-15,Full-Time
+E0171,Employee_0171,Customer Support,Support Executive,Pune,2023-06-12,Full-Time
+E0172,Employee_0172,Finance,Finance Analyst,Pune,2021-08-30,Full-Time
+E0173,Employee_0173,Operations,Operations Executive,Bengaluru,2022-09-24,Full-Time
+E0174,Employee_0174,Logistics,Logistics Executive,Hyderabad,2023-03-27,Full-Time
+E0175,Employee_0175,Operations,Operations Analyst,Pune,2023-03-21,Contract
+E0176,Employee_0176,Operations,Process Associate,Delhi,2024-09-15,Full-Time
+E0177,Employee_0177,Customer Support,Team Associate,Hyderabad,2022-09-17,Full-Time
+E0178,Employee_0178,Logistics,Logistics Analyst,Chennai,2022-08-09,Contract
+E0179,Employee_0179,Logistics,Logistics Executive,Chennai,2025-11-07,Full-Time
+E0180,Employee_0180,IT,IT Analyst,Chennai,2024-03-22,Full-Time
+E0181,Employee_0181,Logistics,Logistics Analyst,Hyderabad,2022-06-24,Full-Time
+E0182,Employee_0182,Logistics,Logistics Executive,Pune,2025-04-23,Full-Time
+E0183,Employee_0183,Finance,Finance Associate,Chennai,2022-03-28,Full-Time
+E0184,Employee_0184,Customer Support,Team Associate,Chennai,2023-03-01,Full-Time
+E0185,Employee_0185,IT,IT Analyst,Delhi,2023-11-27,Full-Time
+E0186,Employee_0186,HR,HR Analyst,Mumbai,2025-06-13,Full-Time
+E0187,Employee_0187,Customer Support,Support Analyst,Hyderabad,2021-11-05,Full-Time
+E0188,Employee_0188,Operations,Process Associate,Pune,2024-03-21,Contract
+E0189,Employee_0189,IT,IT Analyst,Chennai,2025-08-10,Full-Time
+E0190,Employee_0190,Operations,Process Associate,Delhi,2025-09-24,Full-Time
+E0191,Employee_0191,Logistics,Logistics Executive,Bengaluru,2021-04-03,Full-Time
+E0192,Employee_0192,Operations,Operations Executive,Delhi,2023-03-31,Full-Time
+E0193,Employee_0193,Operations,Operations Analyst,Hyderabad,2021-03-27,Full-Time
+E0194,Employee_0194,IT,IT Support Engineer,Chennai,2022-11-24,Full-Time
+E0195,Employee_0195,Operations,Operations Analyst,Mumbai,2023-03-20,Full-Time
+E0196,Employee_0196,Operations,Operations Executive,Pune,2022-12-11,Full-Time
+E0197,Employee_0197,Finance,Finance Associate,Bengaluru,2022-06-06,Full-Time
+E0198,Employee_0198,Logistics,Logistics Executive,Bengaluru,2021-01-03,Full-Time
+E0199,Employee_0199,Operations,Operations Executive,Pune,2021-02-22,Full-Time
+E0200,Employee_0200,Customer Support,Support Executive,Chennai,2024-11-06,Full-Time
+E0201,Employee_0201,IT,Systems Associate,Hyderabad,2022-02-17,Full-Time
+E0202,Employee_0202,Logistics,Logistics Executive,Delhi,2023-05-14,Full-Time
+E0203,Employee_0203,Finance,Accounts Executive,Hyderabad,2024-09-01,Contract
+E0204,Employee_0204,Operations,Operations Executive,Pune,2021-03-29,Full-Time
+E0205,Employee_0205,Operations,Operations Analyst,Mumbai,2021-12-11,Full-Time
+E0206,Employee_0206,Operations,Operations Executive,Hyderabad,2021-09-06,Contract
+E0207,Employee_0207,Operations,Operations Executive,Bengaluru,2025-08-07,Full-Time
+E0208,Employee_0208,HR,HR Associate,Bengaluru,2021-07-19,Full-Time
+E0209,Employee_0209,Operations,Process Associate,Hyderabad,2021-06-09,Full-Time
+E0210,Employee_0210,Finance,Accounts Executive,Mumbai,2025-03-09,Full-Time
+E0211,Employee_0211,HR,HR Associate,Delhi,2023-08-18,Full-Time
+E0212,Employee_0212,Finance,Accounts Executive,Delhi,2024-10-23,Full-Time
+E0213,Employee_0213,Operations,Operations Executive,Hyderabad,2022-03-24,Full-Time
+E0214,Employee_0214,IT,IT Analyst,Delhi,2023-12-23,Contract
+E0215,Employee_0215,HR,HR Associate,Pune,2024-08-14,Full-Time
+E0216,Employee_0216,IT,IT Analyst,Chennai,2024-12-09,Full-Time
+E0217,Employee_0217,Operations,Operations Executive,Hyderabad,2023-07-17,Full-Time
+E0218,Employee_0218,Operations,Process Associate,Mumbai,2021-05-21,Full-Time
+E0219,Employee_0219,Logistics,Logistics Analyst,Pune,2022-11-22,Full-Time
+E0220,Employee_0220,Customer Support,Support Executive,Chennai,2024-07-29,Full-Time
+E0221,Employee_0221,Customer Support,Support Executive,Mumbai,2025-01-26,Contract
+E0222,Employee_0222,Finance,Finance Associate,Bengaluru,2023-12-05,Full-Time
+E0223,Employee_0223,HR,HR Analyst,Bengaluru,2024-04-21,Full-Time
+E0224,Employee_0224,Logistics,Logistics Analyst,Mumbai,2023-07-03,Contract
+E0225,Employee_0225,Customer Support,Support Executive,Bengaluru,2025-07-22,Contract
+E0226,Employee_0226,Logistics,Logistics Executive,Chennai,2023-11-19,Full-Time
+E0227,Employee_0227,Operations,Process Associate,Delhi,2021-06-13,Full-Time
+E0228,Employee_0228,Finance,Finance Analyst,Bengaluru,2024-01-25,Full-Time
+E0229,Employee_0229,HR,HR Analyst,Bengaluru,2023-03-16,Full-Time
+E0230,Employee_0230,Operations,Process Associate,Pune,2024-04-09,Full-Time
+E0231,Employee_0231,Operations,Operations Executive,Bengaluru,2021-04-04,Full-Time
+E0232,Employee_0232,Customer Support,Support Analyst,Delhi,2025-04-22,Full-Time
+E0233,Employee_0233,Logistics,Dispatch Associate,Chennai,2021-11-30,Full-Time
+E0234,Employee_0234,Finance,Accounts Executive,Mumbai,2024-05-04,Full-Time
+E0235,Employee_0235,Logistics,Logistics Analyst,Chennai,2022-04-27,Contract
+E0236,Employee_0236,IT,IT Analyst,Bengaluru,2023-01-25,Full-Time
+E0237,Employee_0237,Customer Support,Team Associate,Bengaluru,2021-03-05,Full-Time
+E0238,Employee_0238,IT,IT Analyst,Pune,2023-01-05,Full-Time
+E0239,Employee_0239,Operations,Operations Analyst,Delhi,2024-03-29,Full-Time
+E0240,Employee_0240,Operations,Process Associate,Pune,2021-09-26,Contract
+E0241,Employee_0241,IT,IT Support Engineer,Hyderabad,2024-05-12,Full-Time
+E0242,Employee_0242,IT,IT Support Engineer,Delhi,2025-07-01,Full-Time
+E0243,Employee_0243,Operations,Process Associate,Pune,2025-05-03,Full-Time
+E0244,Employee_0244,Finance,Finance Analyst,Chennai,2022-11-14,Full-Time
+E0245,Employee_0245,Finance,Finance Associate,Mumbai,2024-03-20,Full-Time
+E0246,Employee_0246,Logistics,Logistics Analyst,Delhi,2023-10-23,Full-Time
+E0247,Employee_0247,Finance,Finance Analyst,Delhi,2024-06-13,Full-Time
+E0248,Employee_0248,Customer Support,Team Associate,Chennai,2021-06-29,Full-Time
+E0249,Employee_0249,Customer Support,Support Analyst,Mumbai,2023-04-01,Contract
+E0250,Employee_0250,Customer Support,Support Executive,Delhi,2022-11-10,Full-Time

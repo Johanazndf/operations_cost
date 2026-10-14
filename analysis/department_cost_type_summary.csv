@@ -1,0 +1,49 @@
+department,cost_type,cost_records,total_cost,missing_cost_amounts,high_cost_records
+Customer Support,Equipment,570,1584794.001445356,0,4
+Customer Support,Maintenance,518,1257196.5646941178,3,1
+Customer Support,Other,413,335042.91,0,0
+Customer Support,Overtime,895,986215.1718010197,6,0
+Customer Support,Software,479,1766384.69,0,22
+Customer Support,Training,302,626845.69,1,1
+Customer Support,Transportation,747,1042955.96,2,0
+Customer Support,Utilities,343,426859.85,2,0
+Finance,Equipment,356,809632.9,0,1
+Finance,Maintenance,303,607248.3311031569,2,0
+Finance,Other,221,146390.53,0,0
+Finance,Overtime,494,465024.817676247,1,1
+Finance,Software,296,866086.33,0,4
+Finance,Training,168,293157.3052395569,2,1
+Finance,Transportation,449,526495.34,0,0
+Finance,Utilities,192,190816.83,0,0
+HR,Equipment,300,599055.4862551519,1,1
+HR,Maintenance,256,439945.7668576961,1,1
+HR,Other,207,110370.92,1,0
+HR,Overtime,432,352602.65603457304,1,0
+HR,Software,243,607781.61,0,0
+HR,Training,155,224213.93,1,0
+HR,Transportation,377,383230.33,3,0
+HR,Utilities,167,146130.06,2,0
+IT,Equipment,452,1577038.63,0,11
+IT,Maintenance,399,1187428.47,0,5
+IT,Other,279,288545.08,1,0
+IT,Overtime,624,841491.86,1,0
+IT,Software,353,1640549.5,1,42
+IT,Training,210,576464.9844128859,0,3
+IT,Transportation,544,985429.2260916667,0,2
+IT,Utilities,267,410825.7,2,0
+Logistics,Equipment,326,1023189.75,1,4
+Logistics,Maintenance,268,763812.31,0,3
+Logistics,Other,193,187878.34504443026,0,1
+Logistics,Overtime,488,616123.8572064707,4,1
+Logistics,Software,277,1214635.194017212,0,21
+Logistics,Training,160,364104.18,0,1
+Logistics,Transportation,394,666891.66,1,1
+Logistics,Utilities,166,241475.28,0,0
+Operations,Equipment,835,2485679.12121694,1,17
+Operations,Maintenance,678,1752363.6564411959,3,10
+Operations,Other,522,463394.0636394167,1,1
+Operations,Overtime,1172,1419316.2047338535,7,2
+Operations,Software,666,2607489.49,1,39
+Operations,Training,388,852560.37,1,0
+Operations,Transportation,1000,1562274.72,5,0
+Operations,Utilities,456,640099.34,1,0
